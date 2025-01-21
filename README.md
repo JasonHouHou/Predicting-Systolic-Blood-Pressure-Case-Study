@@ -1,4 +1,4 @@
-# Predicting-Systolic-Blood-Pressure-Case-Study
+# Predicting Systolic Blood Pressure Case-Study
 
 Systolic blood pressure is a medical measure that indicates how much pressure blood is exerting against
 artery walls when the heart beats. The measure is considered as a major risk factor for cardiovascular
