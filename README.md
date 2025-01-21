@@ -13,8 +13,8 @@ The research question is: What Factors Play Significant Role in Influencing Syst
 
 Made by:
 
-- Mingjia Chen
 - Kuei-Sheng Hou
+- Mingjia Chen
 - Raymond Moy
 - Ruichen Rachel Zhou
 
